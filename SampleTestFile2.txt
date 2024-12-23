@@ -1,2 +1,3 @@
 This is Sample File 2
 This is text that will be merged from branch DEVELOP to main branch
+This is Compartion lecture, Change in File 2
